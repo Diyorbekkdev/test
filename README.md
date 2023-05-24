@@ -3,7 +3,7 @@
 
 - I’m currently working on **my own projects**
 
-- 🧑🏻‍💻 I’m currently learning **JavaScript, Additional JS libraries!**
+- 🧑🏻‍💻 I’m currently learning **JavaScript, Additional JS libraries!** 
 
 - 📲 Telegram blog [https://t.me/diyorbek_juraev_blog](https://t.me/diyorbek_juraev_blog)
 
